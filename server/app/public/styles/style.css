@@ -1,0 +1,50 @@
+body {
+    background-color: #303538;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 30px;
+}
+
+a {
+    color: #ffcc00;
+}
+
+a:hover {
+    color: #fcf64b;
+    text-decoration: none;
+}
+
+h1 {
+    color: #ffcc00;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+img#logo {
+    max-width: 100px;
+    margin-bottom: 20px;
+}
+
+ul.list {
+    list-style-type: none;
+    padding: 0;
+    float: none;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+ul.list li.item-list:first-child {
+    border-top: 1px solid #FFFFFF;
+}
+
+li.item-list {
+    border-bottom: 1px solid #FFFFFF;
+    font-size: 20px;
+    padding: 10px;
+}
+
+

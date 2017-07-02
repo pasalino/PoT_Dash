@@ -1,0 +1,29 @@
+{
+  "name": "pot_counter",
+  "version": "1.0.0",
+  "description": "Counter for meetup visitors",
+  "main": "server/app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app/app.js"
+  },
+  "author": "Pasqualino de Simone pasalino@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "bootstrap": "^3.3.7",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "pug": "^2.0.0-rc.2",
+    "serve-favicon": "^2.4.3",
+    "static-asset": "^0.6.0"
+  },
+  "engines": {
+    "node": "8.0."
+  }
+}

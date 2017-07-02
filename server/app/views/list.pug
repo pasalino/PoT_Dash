@@ -1,0 +1,10 @@
+extends layout
+
+block content
+    h1 Counter Meetup
+    ul.col-xs-12.col-md-4.list
+        each item in list
+            li.col-xs-12.col-md-12.item-list
+                div.col-xs-8.text-left
+                    strong #{item.name}
+                div.col-xs-4.text-right #{item.count}

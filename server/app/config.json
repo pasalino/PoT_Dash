@@ -1,0 +1,18 @@
+{
+  "development": {
+    "server": {
+      "defaultPort": 8080,
+      "apiBasePath": "/api/v1",
+      "publicAsset": "server/app/public",
+      "dataFolder": "server/app/data"
+    }
+  },
+  "production": {
+    "server": {
+      "defaultPort": 80,
+      "apiBasePath": "/api/v1",
+      "publicAsset": "server/app/public",
+      "dataFolder": "server/app/data"
+    }
+  }
+}
