@@ -3,6 +3,7 @@
 ## Abstract
 This project is a subset of main project [Meeting Counter](https://github.com/pasalino/MeetingCounter) for [IoT meetup Milano](https://www.meetup.com/it-IT/IoT-Meetup-Milano/) community.  
 With Arduino and Node.js recreate a copy of Amazon Dash: one button for call a service.
+We share this project in [#2 meetup](http://bit.ly/2urjH8i) of this community 
 
 ## Mission
 This project is created for [IoT meetup Milano](https://www.meetup.com/it-IT/IoT-Meetup-Milano/)
